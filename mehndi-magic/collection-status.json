@@ -81,11 +81,11 @@
   },
   "Mandala Designs": {
     "expected": 790,
-    "published": false
+    "published": true
   },
   "Minimal Mehndi": {
     "expected": 949,
-    "published": false
+    "published": true
   },
   "Modern Mehndi": {
     "expected": 895,
@@ -93,7 +93,7 @@
   },
   "Moroccan Mehndi": {
     "expected": 684,
-    "published": false
+    "published": true
   },
   "Neck Mehndi": {
     "expected": 476,
