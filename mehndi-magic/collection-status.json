@@ -33,19 +33,19 @@
   },
   "Feet": {
     "expected": 71,
-    "published": false
+    "published": true
   },
   "Feet Mehndi": {
     "expected": 2117,
-    "published": false
+    "published": true
   },
   "Festival Fusion": {
     "expected": 1829,
-    "published": false
+    "published": true
   },
   "Festival Special": {
     "expected": 1077,
-    "published": false
+    "published": true
   },
   "Finger Mehndi": {
     "expected": 1133,
