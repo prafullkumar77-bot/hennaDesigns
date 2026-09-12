@@ -97,35 +97,35 @@
   },
   "Neck Mehndi": {
     "expected": 476,
-    "published": false
+    "published": true
   },
   "New Year Special": {
     "expected": 472,
-    "published": false
+    "published": true
   },
   "Occasion Mehndi": {
     "expected": 965,
-    "published": false
+    "published": true
   },
   "Pakistani Mehndi": {
     "expected": 1376,
-    "published": false
+    "published": true
   },
   "Peacock Designs": {
     "expected": 689,
-    "published": false
+    "published": true
   },
   "Portrait Mehndi": {
     "expected": 1023,
-    "published": false
+    "published": true
   },
   "Rajasthani Mehndi": {
     "expected": 1086,
-    "published": false
+    "published": true
   },
   "Simple": {
     "expected": 99,
-    "published": false
+    "published": true
   },
   "Stylish Mehndi": {
     "expected": 643,
