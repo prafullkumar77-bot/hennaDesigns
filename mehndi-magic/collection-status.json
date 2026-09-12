@@ -1,0 +1,146 @@
+{
+  "Arabic Mehndi": {
+    "expected": 2195,
+    "published": true
+  },
+  "Back Hand": {
+    "expected": 96,
+    "published": true
+  },
+  "Bangle Mehndi": {
+    "expected": 1357,
+    "published": true
+  },
+  "Bridal": {
+    "expected": 124,
+    "published": true
+  },
+  "Bridal Mehndi": {
+    "expected": 2796,
+    "published": true
+  },
+  "Bridesmaid Mehndi": {
+    "expected": 1142,
+    "published": false
+  },
+  "Celebrity Inspired": {
+    "expected": 1567,
+    "published": false
+  },
+  "Engagement Mehndi": {
+    "expected": 1317,
+    "published": true
+  },
+  "Feet": {
+    "expected": 71,
+    "published": false
+  },
+  "Feet Mehndi": {
+    "expected": 2117,
+    "published": false
+  },
+  "Festival Fusion": {
+    "expected": 1829,
+    "published": false
+  },
+  "Festival Special": {
+    "expected": 1077,
+    "published": false
+  },
+  "Finger Mehndi": {
+    "expected": 1133,
+    "published": false
+  },
+  "Floral Mehndi": {
+    "expected": 1299,
+    "published": false
+  },
+  "Front Hand": {
+    "expected": 71,
+    "published": false
+  },
+  "Full Body Mehndi": {
+    "expected": 1092,
+    "published": false
+  },
+  "Full Hand": {
+    "expected": 82,
+    "published": false
+  },
+  "Gulf Mehndi": {
+    "expected": 1233,
+    "published": false
+  },
+  "Indian Mehndi": {
+    "expected": 1143,
+    "published": false
+  },
+  "Kids Mehndi": {
+    "expected": 1438,
+    "published": false
+  },
+  "Mandala Designs": {
+    "expected": 790,
+    "published": false
+  },
+  "Minimal Mehndi": {
+    "expected": 949,
+    "published": false
+  },
+  "Modern Mehndi": {
+    "expected": 895,
+    "published": false
+  },
+  "Moroccan Mehndi": {
+    "expected": 684,
+    "published": false
+  },
+  "Neck Mehndi": {
+    "expected": 476,
+    "published": false
+  },
+  "New Year Special": {
+    "expected": 472,
+    "published": false
+  },
+  "Occasion Mehndi": {
+    "expected": 965,
+    "published": false
+  },
+  "Pakistani Mehndi": {
+    "expected": 1376,
+    "published": false
+  },
+  "Peacock Designs": {
+    "expected": 689,
+    "published": false
+  },
+  "Portrait Mehndi": {
+    "expected": 1023,
+    "published": false
+  },
+  "Rajasthani Mehndi": {
+    "expected": 1086,
+    "published": false
+  },
+  "Simple": {
+    "expected": 99,
+    "published": false
+  },
+  "Stylish Mehndi": {
+    "expected": 643,
+    "published": false
+  },
+  "Tattoo Style Mehndi": {
+    "expected": 713,
+    "published": false
+  },
+  "Traditional Mehndi": {
+    "expected": 866,
+    "published": false
+  },
+  "Wedding Collection": {
+    "expected": 644,
+    "published": false
+  }
+}
