@@ -10,8 +10,8 @@
     ],
     "coverCategories": [
       "Bridal",
-      "Arm",
-      "Finger"
+      "Finger",
+      "Arm"
     ],
     "author": "Saijagata",
     "source": "https://commons.wikimedia.org/wiki/File%3ABridal_Mehndi_Designs.JPG",
@@ -318,54 +318,6 @@
     }
   },
   {
-    "id": "application_of_mehendi_henna_design_on_hand_in_india",
-    "title": "Application of mehendi (henna) design on hand in India",
-    "categories": [
-      "Special",
-      "Front Hand"
-    ],
-    "coverCategories": [
-      "Special"
-    ],
-    "author": "The open draft",
-    "source": "https://commons.wikimedia.org/wiki/File%3AApplication_of_mehendi_%28henna%29_design_on_hand_in_India.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/application_of_mehendi_henna_design_on_hand_in_india.jpg",
-      "sha256": "1709275a9abb06ee445768b13172813cb33365992316841aae9155ab9dcea1e2"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/application_of_mehendi_henna_design_on_hand_in_india.jpg",
-      "sha256": "1709275a9abb06ee445768b13172813cb33365992316841aae9155ab9dcea1e2"
-    }
-  },
-  {
-    "id": "henna_london_mela",
-    "title": "Henna London Mela",
-    "categories": [
-      "Front Hand",
-      "Others"
-    ],
-    "coverCategories": [
-      "Front Hand"
-    ],
-    "author": "zorilla / Barry",
-    "source": "https://commons.wikimedia.org/wiki/File%3AHenna_London_Mela.jpg",
-    "license": "CC-BY-2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_london_mela.jpg",
-      "sha256": "6368d996f3ce096ac9822ffca8432620e237eab2461c3d8577982e2583c199f5"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_london_mela.jpg",
-      "sha256": "6368d996f3ce096ac9822ffca8432620e237eab2461c3d8577982e2583c199f5"
-    }
-  },
-  {
     "id": "henna_cordoba",
     "title": "Henna cordoba",
     "categories": [
@@ -388,57 +340,15 @@
     }
   },
   {
-    "id": "india_d_a_04_788",
-    "title": "India D\u00eda 04 788",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Noranina",
-    "source": "https://commons.wikimedia.org/wiki/File%3AIndia_D%C3%ADa_04_788.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/india_d_a_04_788.jpg",
-      "sha256": "a4690ee04ad48c567ac2913f9e7c6400d9d30a803f2734004ff0b7bf0fbdfb20"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/india_d_a_04_788.jpg",
-      "sha256": "a4690ee04ad48c567ac2913f9e7c6400d9d30a803f2734004ff0b7bf0fbdfb20"
-    }
-  },
-  {
-    "id": "handhenna",
-    "title": "HandHenna",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Mary Carson",
-    "source": "https://commons.wikimedia.org/wiki/File%3AHandHenna.JPG",
-    "license": "CC-BY-SA-2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/handhenna.jpg",
-      "sha256": "805d644352f307b02a6001bee1c69e340f1009cc6dc5552e1cae3e55ad8f000f"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/handhenna.jpg",
-      "sha256": "805d644352f307b02a6001bee1c69e340f1009cc6dc5552e1cae3e55ad8f000f"
-    }
-  },
-  {
     "id": "henna_hand",
     "title": "Henna hand",
     "categories": [
       "Front Hand",
       "Others"
     ],
-    "coverCategories": [],
+    "coverCategories": [
+      "Front Hand"
+    ],
     "author": "peter klashorst",
     "source": "https://commons.wikimedia.org/wiki/File%3AHenna_hand.jpg",
     "license": "CC-BY-2.0",
@@ -451,28 +361,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_hand.jpg",
       "sha256": "1e891401c2ba4c62f512136fce5c8312a507773edb64a2cea3bd06deeeb28e50"
-    }
-  },
-  {
-    "id": "henna_de_mans_i_peus",
-    "title": "Henna de mans i peus",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Aggalocha",
-    "source": "https://commons.wikimedia.org/wiki/File%3AHenna_de_mans_i_peus.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_de_mans_i_peus.jpg",
-      "sha256": "9480840ed8622a72907d87cae5abf17971e9c130cec201d3f9ca168c1a730c74"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_de_mans_i_peus.jpg",
-      "sha256": "9480840ed8622a72907d87cae5abf17971e9c130cec201d3f9ca168c1a730c74"
     }
   },
   {
@@ -539,28 +427,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_love.jpg",
       "sha256": "19bd55318d399821750c455f5248791b66b3a4e12d07234d4d908534477208f2"
-    }
-  },
-  {
-    "id": "indian_wedding_moment",
-    "title": "Indian wedding moment",
-    "categories": [
-      "Bridal",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Unknown",
-    "source": "https://commons.wikimedia.org/wiki/File%3AIndian_wedding_moment.jpeg",
-    "license": "CC0-1.0",
-    "licenseUrl": "",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_wedding_moment.jpg",
-      "sha256": "0be92ae98cfee27bea81959960bd917699a8bb88867be75dac93a3169cee9e95"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_wedding_moment.jpg",
-      "sha256": "0be92ae98cfee27bea81959960bd917699a8bb88867be75dac93a3169cee9e95"
     }
   },
   {
@@ -682,7 +548,9 @@
       "Special",
       "Front Hand"
     ],
-    "coverCategories": [],
+    "coverCategories": [
+      "Special"
+    ],
     "author": "Peroli Udhayakumar",
     "source": "https://commons.wikimedia.org/wiki/File%3AFull_hand_mehandi.jpg",
     "license": "CC-BY-SA-4.0",
@@ -695,28 +563,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/full_hand_mehandi.jpg",
       "sha256": "78f4ef6aed3d15943e6abdb87087ef890df0f8701f125ee62a34ebd0fd6d90b0"
-    }
-  },
-  {
-    "id": "henna_ceremony_at_wedding_01",
-    "title": "Henna ceremony at wedding 01",
-    "categories": [
-      "Bridal",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Sonaart",
-    "source": "https://commons.wikimedia.org/wiki/File%3AHenna_ceremony_at_wedding_01.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_ceremony_at_wedding_01.jpg",
-      "sha256": "db75031da8014e0036050bb98baccd8fdd8098ecbd7506c4f2a52ea5672b5902"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna_ceremony_at_wedding_01.jpg",
-      "sha256": "db75031da8014e0036050bb98baccd8fdd8098ecbd7506c4f2a52ea5672b5902"
     }
   },
   {
@@ -763,72 +609,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/front_and_back_hand_mehendi_design.jpg",
       "sha256": "83a1303b1e8226a5341b13afd4b7292c01873cf3d7f1283f5eaf462ed602412a"
-    }
-  },
-  {
-    "id": "indian_folk_mehndi_ceremony_5",
-    "title": "Indian Folk Mehndi Ceremony (5)",
-    "categories": [
-      "Special",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "AmanAgrahari01",
-    "source": "https://commons.wikimedia.org/wiki/File%3AIndian_Folk_Mehndi_Ceremony_%285%29.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_folk_mehndi_ceremony_5.jpg",
-      "sha256": "0b090b50ee3208b0990b9e3a8f35bbc2df92ce9b9cfc6231288fbfe87113cd8f"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_folk_mehndi_ceremony_5.jpg",
-      "sha256": "0b090b50ee3208b0990b9e3a8f35bbc2df92ce9b9cfc6231288fbfe87113cd8f"
-    }
-  },
-  {
-    "id": "indian_folk_mehndi_ceremony_3",
-    "title": "Indian Folk Mehndi Ceremony (3)",
-    "categories": [
-      "Bridal",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "AmanAgrahari01",
-    "source": "https://commons.wikimedia.org/wiki/File%3AIndian_Folk_Mehndi_Ceremony_%283%29.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_folk_mehndi_ceremony_3.jpg",
-      "sha256": "da947d5ba740a24df100430473c9c34b46c2f045b69029d1aad2f376da0723cb"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_folk_mehndi_ceremony_3.jpg",
-      "sha256": "da947d5ba740a24df100430473c9c34b46c2f045b69029d1aad2f376da0723cb"
-    }
-  },
-  {
-    "id": "indian_folk_mehndi_ceremony_6",
-    "title": "Indian Folk Mehndi Ceremony (6)",
-    "categories": [
-      "Special",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "AmanAgrahari01",
-    "source": "https://commons.wikimedia.org/wiki/File%3AIndian_Folk_Mehndi_Ceremony_%286%29.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_folk_mehndi_ceremony_6.jpg",
-      "sha256": "3d27089251ab187039a8faa09f273853bc206cae27f6ea8c45eb1b6c2173c827"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/indian_folk_mehndi_ceremony_6.jpg",
-      "sha256": "3d27089251ab187039a8faa09f273853bc206cae27f6ea8c45eb1b6c2173c827"
     }
   },
   {
@@ -897,72 +677,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehendi_decoration_on_feet.jpg",
       "sha256": "179dabfc1e9e737f4a0de49dcb3cabeb63c9e26f44253f49ae0b534809c6505c"
-    }
-  },
-  {
-    "id": "mehendi",
-    "title": "Mehendi",
-    "categories": [
-      "Front Hand",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Krish Dulal",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehendi.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehendi.jpg",
-      "sha256": "5368e93d29eec68a2ee8e85a30e1fa49c64b14711d29fdca9484b47a91aba609"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehendi.jpg",
-      "sha256": "5368e93d29eec68a2ee8e85a30e1fa49c64b14711d29fdca9484b47a91aba609"
-    }
-  },
-  {
-    "id": "mains_d_cor_es",
-    "title": "Mains d\u00e9cor\u00e9es",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Cl\u00e9ment Bucco-Lechat",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMains_d%C3%A9cor%C3%A9es.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mains_d_cor_es.jpg",
-      "sha256": "471f2c77e297f8a90c7a694f29533b26face31ca773123fa6a67167ce15fdd77"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mains_d_cor_es.jpg",
-      "sha256": "471f2c77e297f8a90c7a694f29533b26face31ca773123fa6a67167ce15fdd77"
-    }
-  },
-  {
-    "id": "mehendi_on_hands",
-    "title": "Mehendi on hands",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Pp391",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehendi_on_hands.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehendi_on_hands.jpg",
-      "sha256": "5d1d0090ff1595ce7419094309839136d0e00779b3a99bbe896709ab34ca64f3"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehendi_on_hands.jpg",
-      "sha256": "5d1d0090ff1595ce7419094309839136d0e00779b3a99bbe896709ab34ca64f3"
     }
   },
   {
@@ -1076,50 +790,6 @@
     }
   },
   {
-    "id": "mehandi_in_hindu_marriage",
-    "title": "Mehandi in Hindu marriage",
-    "categories": [
-      "Bridal",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Divya dsc",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehandi_in_Hindu_marriage.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_in_hindu_marriage.jpg",
-      "sha256": "5dfd7d9fd1f6fa0875d6e910e8fe8e54c313203bd0657ada66cc4c4ce6c6fa76"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_in_hindu_marriage.jpg",
-      "sha256": "5dfd7d9fd1f6fa0875d6e910e8fe8e54c313203bd0657ada66cc4c4ce6c6fa76"
-    }
-  },
-  {
-    "id": "knot_of_love_for_lifetime",
-    "title": "Knot of Love For Lifetime",
-    "categories": [
-      "Bridal",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "RAHUL SHIVTARKAR",
-    "source": "https://commons.wikimedia.org/wiki/File%3AKnot_of_Love_For_Lifetime.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/knot_of_love_for_lifetime.jpg",
-      "sha256": "5cec256809f0e59edb098ee3150c7b32cee2eb5e00f4917b68c6ed682230cbfe"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/knot_of_love_for_lifetime.jpg",
-      "sha256": "5cec256809f0e59edb098ee3150c7b32cee2eb5e00f4917b68c6ed682230cbfe"
-    }
-  },
-  {
     "id": "mehandi_in_feet_flickr_kamala_l",
     "title": "Mehandi in feet - Flickr - Kamala L",
     "categories": [
@@ -1142,28 +812,6 @@
     }
   },
   {
-    "id": "malam_bainai",
-    "title": "Malam bainai",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Anderlan",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMalam_bainai.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/malam_bainai.jpg",
-      "sha256": "c3b60806aa83a50b71b284968cf9b8392dda86459d56d2bad0091408ada1bbeb"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/malam_bainai.jpg",
-      "sha256": "c3b60806aa83a50b71b284968cf9b8392dda86459d56d2bad0091408ada1bbeb"
-    }
-  },
-  {
     "id": "mehandi_design_hand",
     "title": "Mehandi design hand",
     "categories": [
@@ -1183,28 +831,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_design_hand.jpg",
       "sha256": "4997303304ac504c976a9d6e8aac530ed64f1588bb66feba7555aaa704481651"
-    }
-  },
-  {
-    "id": "le_jour_de_ma_fian_aille_j_ai_partie_chez_la_coiffeuse_",
-    "title": "Le jour de ma fian\u00e7aille j'ai partie chez la coiffeuse j'ai fait un dessin avec",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Bekhiche Amira Hind",
-    "source": "https://commons.wikimedia.org/wiki/File%3ALe_jour_de_ma_fian%C3%A7aille_j%27ai_partie_chez_la_coiffeuse_j%27ai_fait_un_dessin_avec_le_henna_sur_ma_main.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/le_jour_de_ma_fian_aille_j_ai_partie_chez_la_coiffeuse_.jpg",
-      "sha256": "5f28274069551129776d94ee74334c629f6c19b8c0379f8b927a0a740d091d1e"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/le_jour_de_ma_fian_aille_j_ai_partie_chez_la_coiffeuse_.jpg",
-      "sha256": "5f28274069551129776d94ee74334c629f6c19b8c0379f8b927a0a740d091d1e"
     }
   },
   {
@@ -1430,28 +1056,6 @@
     }
   },
   {
-    "id": "mehandi_1_29_13",
-    "title": "Mehandi 1 (29) 13",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "AmanAgrahari01",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehandi_1_%2829%29_13.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_1_29_13.jpg",
-      "sha256": "5945852cf6d8cd3a428d0ac729bd167385ecc91fac6a2e6bd1717f3651baa7c8"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_1_29_13.jpg",
-      "sha256": "5945852cf6d8cd3a428d0ac729bd167385ecc91fac6a2e6bd1717f3651baa7c8"
-    }
-  },
-  {
     "id": "mehandi_1_29_21",
     "title": "Mehandi 1 (29) 21",
     "categories": [
@@ -1606,50 +1210,6 @@
     }
   },
   {
-    "id": "mehandi_designs_in_indian_culture",
-    "title": "Mehandi designs in Indian culture",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Anshika06",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehandi_designs_in_Indian_culture.jpg",
-    "license": "CC0-1.0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_designs_in_indian_culture.jpg",
-      "sha256": "5ac7ebc27f4d8b4d191d7645bdcfd485a426ec52fb3e283e088a1e8afa0d848c"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_designs_in_indian_culture.jpg",
-      "sha256": "5ac7ebc27f4d8b4d191d7645bdcfd485a426ec52fb3e283e088a1e8afa0d848c"
-    }
-  },
-  {
-    "id": "mehandi_competition",
-    "title": "Mehandi Competition",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "CKLatheef",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehandi_Competition.jpg",
-    "license": "CC-BY-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_competition.jpg",
-      "sha256": "1c6918cb252860e347caea0780f14b248590ed40712e84f41d843d83e32961fe"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehandi_competition.jpg",
-      "sha256": "1c6918cb252860e347caea0780f14b248590ed40712e84f41d843d83e32961fe"
-    }
-  },
-  {
     "id": "henna_115",
     "title": "HENNA-115",
     "categories": [
@@ -1691,28 +1251,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi1.jpg",
       "sha256": "298aa2d58707f820d0e0f8c920ca0729b2a8c5512c69c21ed6c1fa68656eb697"
-    }
-  },
-  {
-    "id": "tell_arab_frauen_beim_hennabemalen_2_fu",
-    "title": "Tell Arab - Frauen beim Hennabemalen 2 Fu\u00df",
-    "categories": [
-      "Foot",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Wolfgang Sauber",
-    "source": "https://commons.wikimedia.org/wiki/File%3ATell_Arab_-_Frauen_beim_Hennabemalen_2_Fu%C3%9F.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tell_arab_frauen_beim_hennabemalen_2_fu.jpg",
-      "sha256": "878a35ac552efacb4fd1c46f7b5c1ecb0b41983d35a2885a6340cdec9e176d7b"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tell_arab_frauen_beim_hennabemalen_2_fu.jpg",
-      "sha256": "878a35ac552efacb4fd1c46f7b5c1ecb0b41983d35a2885a6340cdec9e176d7b"
     }
   },
   {
@@ -1760,94 +1298,6 @@
     }
   },
   {
-    "id": "mehndi_amk",
-    "title": "Mehndi amk",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "AngMoKio",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_amk.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_amk.jpg",
-      "sha256": "52684c486593f21f2c62e4ba17d6d0edc3a97095dc21eddbe45d1d132fd4a491"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_amk.jpg",
-      "sha256": "52684c486593f21f2c62e4ba17d6d0edc3a97095dc21eddbe45d1d132fd4a491"
-    }
-  },
-  {
-    "id": "mehndi_decor",
-    "title": "Mehndi decor",
-    "categories": [
-      "Bridal",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Jugni",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_decor.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_decor.jpg",
-      "sha256": "b08db523e9e609c7e98ca6efa446f538c33715e88e523e3c2a3a4433a77783d3"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_decor.jpg",
-      "sha256": "b08db523e9e609c7e98ca6efa446f538c33715e88e523e3c2a3a4433a77783d3"
-    }
-  },
-  {
-    "id": "mehndi_decor2",
-    "title": "Mehndi decor2",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Jugni",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_decor2.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_decor2.jpg",
-      "sha256": "9e42f2d78553bec3b7d01331124079a97a230b04c432f8e1442bdb563b4a6f01"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_decor2.jpg",
-      "sha256": "9e42f2d78553bec3b7d01331124079a97a230b04c432f8e1442bdb563b4a6f01"
-    }
-  },
-  {
-    "id": "tell_arab_frauen_beim_hennabemalen_3_hand",
-    "title": "Tell Arab - Frauen beim Hennabemalen 3 Hand",
-    "categories": [
-      "Front Hand",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Wolfgang Sauber",
-    "source": "https://commons.wikimedia.org/wiki/File%3ATell_Arab_-_Frauen_beim_Hennabemalen_3_Hand.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tell_arab_frauen_beim_hennabemalen_3_hand.jpg",
-      "sha256": "6fe20b6b488bc4973ca4c0e29bb922f457e3147b4f047302c15f8e4b809722ac"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tell_arab_frauen_beim_hennabemalen_3_hand.jpg",
-      "sha256": "6fe20b6b488bc4973ca4c0e29bb922f457e3147b4f047302c15f8e4b809722ac"
-    }
-  },
-  {
     "id": "mehndi_design",
     "title": "Mehndi design",
     "categories": [
@@ -1870,50 +1320,6 @@
     }
   },
   {
-    "id": "tatuajin",
-    "title": "Tatuajin",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Los albertanos",
-    "source": "https://commons.wikimedia.org/wiki/File%3ATatuajin.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tatuajin.jpg",
-      "sha256": "561b90621ace8fc9c960b8270341ad92bcf43aad226169d32de3c9a896ab5d1a"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tatuajin.jpg",
-      "sha256": "561b90621ace8fc9c960b8270341ad92bcf43aad226169d32de3c9a896ab5d1a"
-    }
-  },
-  {
-    "id": "tatuaje_en_hena",
-    "title": "Tatuaje en Hena",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Angel Aroca Esc\u00e1mez",
-    "source": "https://commons.wikimedia.org/wiki/File%3ATatuaje_en_Hena.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tatuaje_en_hena.jpg",
-      "sha256": "c983e8b0fc8f62e13b3698ac90ce39f4f19683b62ff6cdb7fe18ecbb2390b488"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/tatuaje_en_hena.jpg",
-      "sha256": "c983e8b0fc8f62e13b3698ac90ce39f4f19683b62ff6cdb7fe18ecbb2390b488"
-    }
-  },
-  {
     "id": "mehndi_np",
     "title": "Mehndi NP",
     "categories": [
@@ -1933,28 +1339,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_np.jpg",
       "sha256": "bb65c7a42adcce7a8bbda3a66a64b40f1cde2f3bf3a1e05d2fe746be733fe8f5"
-    }
-  },
-  {
-    "id": "mehndi_occasion",
-    "title": "Mehndi occasion",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "MoOdY MughaL",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_occasion.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_occasion.jpg",
-      "sha256": "d5913836c8ab6f79841ef606c6e9e5d1f3d92207127e1c294960c596acd311f3"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_occasion.jpg",
-      "sha256": "d5913836c8ab6f79841ef606c6e9e5d1f3d92207127e1c294960c596acd311f3"
     }
   },
   {
@@ -2043,50 +1427,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/simple_mehendi_design.jpg",
       "sha256": "f8f883535efdc29c65d7bdb082d6652dff37770561a132818e2e6ee3f3b041de"
-    }
-  },
-  {
-    "id": "mehndi_and_henna_cone",
-    "title": "Mehndi and henna cone",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Ilona's Henna 'n' Stuff",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_and_henna_cone.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_and_henna_cone.jpg",
-      "sha256": "7cc6a89a36d2946c7cc7b9f86aa49323b2084ae34bd4ce7bbf5af293be54a04d"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_and_henna_cone.jpg",
-      "sha256": "7cc6a89a36d2946c7cc7b9f86aa49323b2084ae34bd4ce7bbf5af293be54a04d"
-    }
-  },
-  {
-    "id": "mehndi_in_hand",
-    "title": "Mehndi in hand",
-    "categories": [
-      "Front Hand",
-      "Others"
-    ],
-    "coverCategories": [],
-    "author": "Gaurav Dhwaj Khadka",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_in_hand.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_in_hand.jpg",
-      "sha256": "0a8b9bf313ae527701d6c84822d4c0182fad21e85ddba7985d881305b089168d"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_in_hand.jpg",
-      "sha256": "0a8b9bf313ae527701d6c84822d4c0182fad21e85ddba7985d881305b089168d"
     }
   },
   {
@@ -2200,28 +1540,6 @@
     }
   },
   {
-    "id": "mehndi_function",
-    "title": "Mehndi function",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Archies2804",
-    "source": "https://commons.wikimedia.org/wiki/File%3AMehndi_function.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_function.jpg",
-      "sha256": "5cf46a336804254f883bd527e10f096e76bfd124c6e1874b0948bb76ef93d26e"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/mehndi_function.jpg",
-      "sha256": "5cf46a336804254f883bd527e10f096e76bfd124c6e1874b0948bb76ef93d26e"
-    }
-  },
-  {
     "id": "simple_mehendi_design_2",
     "title": "Simple mehendi design",
     "categories": [
@@ -2266,50 +1584,6 @@
     }
   },
   {
-    "id": "bumbershoot_henna_01",
-    "title": "Bumbershoot henna 01",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Joe Mabel",
-    "source": "https://commons.wikimedia.org/wiki/File%3ABumbershoot_henna_01.jpg",
-    "license": "CC-BY-SA-3.0",
-    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/bumbershoot_henna_01.jpg",
-      "sha256": "7b44a353857cf7bd0e550db96b15853c7717303aed5eed6a17c1ac24946629a2"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/bumbershoot_henna_01.jpg",
-      "sha256": "7b44a353857cf7bd0e550db96b15853c7717303aed5eed6a17c1ac24946629a2"
-    }
-  },
-  {
-    "id": "drawing_henna",
-    "title": "Drawing henna",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Gehad Gallo",
-    "source": "https://commons.wikimedia.org/wiki/File%3ADrawing_henna.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/drawing_henna.jpg",
-      "sha256": "e1d96ac57789d305a8c32dca6f839f680c41c85184f0e299a9d8ecf9f33beaca"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/drawing_henna.jpg",
-      "sha256": "e1d96ac57789d305a8c32dca6f839f680c41c85184f0e299a9d8ecf9f33beaca"
-    }
-  },
-  {
     "id": "henna",
     "title": "\u092a\u093e\u092f\u093e\u0935\u0930\u091a\u0940 \u092e\u0947\u0939\u0947\u0902\u0926\u0940",
     "categories": [
@@ -2329,28 +1603,6 @@
     "image": {
       "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/henna.jpg",
       "sha256": "4166dd0930f15f9e98d77cd7c3ebf364ab28cfba118856aabf6bdbf8902abaa1"
-    }
-  },
-  {
-    "id": "a_woman_in_the_kingdom_of_saudi_arabia_is_drawing_henna",
-    "title": "A woman in the Kingdom of Saudi Arabia is drawing henna, and picked up by girls",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Thinktech86",
-    "source": "https://commons.wikimedia.org/wiki/File%3AA_woman_in_the_Kingdom_of_Saudi_Arabia_is_drawing_henna%2C_and_picked_up_by_girls_one_generation_after_the_other.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/a_woman_in_the_kingdom_of_saudi_arabia_is_drawing_henna.jpg",
-      "sha256": "a52f27c41da5460ef955672b699d060a2acf3ba779a7aaa611d6eab421b332dc"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/a_woman_in_the_kingdom_of_saudi_arabia_is_drawing_henna.jpg",
-      "sha256": "a52f27c41da5460ef955672b699d060a2acf3ba779a7aaa611d6eab421b332dc"
     }
   }
 ]

@@ -1,18 +1,15 @@
 Henna Designs gallery for Henna Studio
 Hosted inspiration photographs
 
-Photos are downloaded from Wikimedia Commons for the Henna Studio Photos tab.
-Category labels are editorial browsing suggestions only.
-Images with detected faces were excluded. Display-size JPEGs are used.
+Only hand, palm, and feet henna designs. Ceremony props, application process shots, and non-design items removed.
+Downloaded from Wikimedia Commons. Face-detected and non-design images excluded.
 
 License summary:
-  CC-BY-SA-4.0: 68
-  CC-BY-SA-3.0: 21
-  CC0-1.0: 9
-  CC-BY-2.0: 4
+  CC-BY-SA-4.0: 52
+  CC-BY-SA-3.0: 8
+  CC0-1.0: 7
+  CC-BY-2.0: 3
   CC-BY-SA-2.0: 2
-  CC-BY-SA-2.5: 1
-  CC-BY-4.0: 1
 
 Attributions (title / author / source / license):
 
@@ -100,47 +97,17 @@ https://commons.wikimedia.org/wiki/File%3ABridal_mehndi_%28henna%29_is_a_central
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Application of mehendi (henna) design on hand in India
-The open draft
-https://commons.wikimedia.org/wiki/File%3AApplication_of_mehendi_%28henna%29_design_on_hand_in_India.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Henna London Mela
-zorilla / Barry
-https://commons.wikimedia.org/wiki/File%3AHenna_London_Mela.jpg
-CC-BY-2.0
-https://creativecommons.org/licenses/by/2.0
-
 Henna cordoba
 Alejandro Ibáñez
 https://commons.wikimedia.org/wiki/File%3AHenna_cordoba.JPG
 CC-BY-SA-3.0
 http://creativecommons.org/licenses/by-sa/3.0/
 
-India Día 04 788
-Noranina
-https://commons.wikimedia.org/wiki/File%3AIndia_D%C3%ADa_04_788.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-HandHenna
-Mary Carson
-https://commons.wikimedia.org/wiki/File%3AHandHenna.JPG
-CC-BY-SA-2.5
-https://creativecommons.org/licenses/by-sa/2.5
-
 Henna hand
 peter klashorst
 https://commons.wikimedia.org/wiki/File%3AHenna_hand.jpg
 CC-BY-2.0
 https://creativecommons.org/licenses/by/2.0
-
-Henna de mans i peus
-Aggalocha
-https://commons.wikimedia.org/wiki/File%3AHenna_de_mans_i_peus.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
 
 Henna (6652759971)
 Michael Day
@@ -159,11 +126,6 @@ shahnazshahizan
 https://commons.wikimedia.org/wiki/File%3AHenna_Love.jpg
 CC-BY-SA-3.0
 https://creativecommons.org/licenses/by-sa/3.0
-
-Indian wedding moment
-Unknown
-https://commons.wikimedia.org/wiki/File%3AIndian_wedding_moment.jpeg
-CC0-1.0
 
 IMG butterfly
 Siddharthvashisth
@@ -201,12 +163,6 @@ https://commons.wikimedia.org/wiki/File%3AFull_hand_mehandi.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Henna ceremony at wedding 01
-Sonaart
-https://commons.wikimedia.org/wiki/File%3AHenna_ceremony_at_wedding_01.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
 Floral mehndi designs
 Praveenapraviii
 https://commons.wikimedia.org/wiki/File%3AFloral_mehndi_designs.jpg
@@ -218,24 +174,6 @@ Manju Thilagavathi
 https://commons.wikimedia.org/wiki/File%3AFront_and_back_hand_mehendi_design.jpg
 CC0-1.0
 http://creativecommons.org/publicdomain/zero/1.0/deed.en
-
-Indian Folk Mehndi Ceremony (5)
-AmanAgrahari01
-https://commons.wikimedia.org/wiki/File%3AIndian_Folk_Mehndi_Ceremony_%285%29.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Indian Folk Mehndi Ceremony (3)
-AmanAgrahari01
-https://commons.wikimedia.org/wiki/File%3AIndian_Folk_Mehndi_Ceremony_%283%29.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Indian Folk Mehndi Ceremony (6)
-AmanAgrahari01
-https://commons.wikimedia.org/wiki/File%3AIndian_Folk_Mehndi_Ceremony_%286%29.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
 
 Indian style mehendi
 Nikhita Prabakaran
@@ -252,24 +190,6 @@ http://creativecommons.org/publicdomain/zero/1.0/deed.en
 Mehendi decoration on feet
 Nvvchar
 https://commons.wikimedia.org/wiki/File%3AMehendi_decoration_on_feet.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Mehendi
-Krish Dulal
-https://commons.wikimedia.org/wiki/File%3AMehendi.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Mains décorées
-Clément Bucco-Lechat
-https://commons.wikimedia.org/wiki/File%3AMains_d%C3%A9cor%C3%A9es.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Mehendi on hands
-Pp391
-https://commons.wikimedia.org/wiki/File%3AMehendi_on_hands.jpg
 CC-BY-SA-3.0
 https://creativecommons.org/licenses/by-sa/3.0
 
@@ -303,39 +223,15 @@ https://commons.wikimedia.org/wiki/File%3AMehendi_Designs.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Mehandi in Hindu marriage
-Divya dsc
-https://commons.wikimedia.org/wiki/File%3AMehandi_in_Hindu_marriage.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Knot of Love For Lifetime
-RAHUL SHIVTARKAR
-https://commons.wikimedia.org/wiki/File%3AKnot_of_Love_For_Lifetime.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
 Mehandi in feet - Flickr - Kamala L
 Kamala L
 https://commons.wikimedia.org/wiki/File%3AMehandi_in_feet_-_Flickr_-_Kamala_L.jpg
 CC-BY-SA-2.0
 https://creativecommons.org/licenses/by-sa/2.0
 
-Malam bainai
-Anderlan
-https://commons.wikimedia.org/wiki/File%3AMalam_bainai.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
 Mehandi design hand
 Nive Selvaraju
 https://commons.wikimedia.org/wiki/File%3AMehandi_design_hand.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Le jour de ma fiançaille j'ai partie chez la coiffeuse j'ai fait un dessin avec
-Bekhiche Amira Hind
-https://commons.wikimedia.org/wiki/File%3ALe_jour_de_ma_fian%C3%A7aille_j%27ai_partie_chez_la_coiffeuse_j%27ai_fait_un_dessin_avec_le_henna_sur_ma_main.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
@@ -399,12 +295,6 @@ https://commons.wikimedia.org/wiki/File%3AMehandi_1_%2829%29_12.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Mehandi 1 (29) 13
-AmanAgrahari01
-https://commons.wikimedia.org/wiki/File%3AMehandi_1_%2829%29_13.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
 Mehandi 1 (29) 21
 AmanAgrahari01
 https://commons.wikimedia.org/wiki/File%3AMehandi_1_%2829%29_21.jpg
@@ -447,18 +337,6 @@ https://commons.wikimedia.org/wiki/File%3AMehandi_1_%2829%29_37.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Mehandi designs in Indian culture
-Anshika06
-https://commons.wikimedia.org/wiki/File%3AMehandi_designs_in_Indian_culture.jpg
-CC0-1.0
-http://creativecommons.org/publicdomain/zero/1.0/deed.en
-
-Mehandi Competition
-CKLatheef
-https://commons.wikimedia.org/wiki/File%3AMehandi_Competition.jpg
-CC-BY-4.0
-https://creativecommons.org/licenses/by/4.0
-
 HENNA-115
 Antony Trivet
 https://commons.wikimedia.org/wiki/File%3AHENNA-115.jpg
@@ -470,12 +348,6 @@ Sujit kumar
 https://commons.wikimedia.org/wiki/File%3AMehndi1.JPG
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
-
-Tell Arab - Frauen beim Hennabemalen 2 Fuß
-Wolfgang Sauber
-https://commons.wikimedia.org/wiki/File%3ATell_Arab_-_Frauen_beim_Hennabemalen_2_Fu%C3%9F.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
 
 Tattoo with henna
 Yann Forget
@@ -489,45 +361,9 @@ https://commons.wikimedia.org/wiki/File%3ATatouage_au_henn%C3%A9.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Mehndi amk
-AngMoKio
-https://commons.wikimedia.org/wiki/File%3AMehndi_amk.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Mehndi decor
-Jugni
-https://commons.wikimedia.org/wiki/File%3AMehndi_decor.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Mehndi decor2
-Jugni
-https://commons.wikimedia.org/wiki/File%3AMehndi_decor2.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Tell Arab - Frauen beim Hennabemalen 3 Hand
-Wolfgang Sauber
-https://commons.wikimedia.org/wiki/File%3ATell_Arab_-_Frauen_beim_Hennabemalen_3_Hand.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
 Mehndi design
 Jyothis
 https://commons.wikimedia.org/wiki/File%3AMehndi_design.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Tatuajin
-Los albertanos
-https://commons.wikimedia.org/wiki/File%3ATatuajin.jpg
-CC-BY-SA-3.0
-https://creativecommons.org/licenses/by-sa/3.0
-
-Tatuaje en Hena
-Angel Aroca Escámez
-https://commons.wikimedia.org/wiki/File%3ATatuaje_en_Hena.jpg
 CC-BY-SA-3.0
 https://creativecommons.org/licenses/by-sa/3.0
 
@@ -536,12 +372,6 @@ Krish Dulal
 https://commons.wikimedia.org/wiki/File%3AMehndi_NP.JPG
 CC-BY-SA-3.0
 https://creativecommons.org/licenses/by-sa/3.0
-
-Mehndi occasion
-MoOdY MughaL
-https://commons.wikimedia.org/wiki/File%3AMehndi_occasion.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
 
 Mehndi henna design
 Rangbaz
@@ -566,18 +396,6 @@ Vaishnavi chandak
 https://commons.wikimedia.org/wiki/File%3ASimple_mehendi_design_.png
 CC-BY-SA-3.0
 https://creativecommons.org/licenses/by-sa/3.0
-
-Mehndi and henna cone
-Ilona's Henna 'n' Stuff
-https://commons.wikimedia.org/wiki/File%3AMehndi_and_henna_cone.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Mehndi in hand
-Gaurav Dhwaj Khadka
-https://commons.wikimedia.org/wiki/File%3AMehndi_in_hand.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
 
 Simple mehndi style
 रोहित साव27
@@ -609,12 +427,6 @@ https://commons.wikimedia.org/wiki/File%3ARanthambore_Mehendi.jpg
 CC0-1.0
 http://creativecommons.org/publicdomain/zero/1.0/deed.en
 
-Mehndi function
-Archies2804
-https://commons.wikimedia.org/wiki/File%3AMehndi_function.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
 Simple mehendi design
 Manju Thilagavathi
 https://commons.wikimedia.org/wiki/File%3ASimple_mehendi_design.jpg
@@ -627,26 +439,8 @@ https://commons.wikimedia.org/wiki/File%3AMEHNDI-93.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
-Bumbershoot henna 01
-Joe Mabel
-https://commons.wikimedia.org/wiki/File%3ABumbershoot_henna_01.jpg
-CC-BY-SA-3.0
-http://creativecommons.org/licenses/by-sa/3.0/
-
-Drawing henna
-Gehad Gallo
-https://commons.wikimedia.org/wiki/File%3ADrawing_henna.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
 पायावरची मेहेंदी
 कल्याणी कोतकर
 https://commons.wikimedia.org/wiki/File%3A%E0%A4%AA%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%9A%E0%A5%80_%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%80.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-A woman in the Kingdom of Saudi Arabia is drawing henna, and picked up by girls
-Thinktech86
-https://commons.wikimedia.org/wiki/File%3AA_woman_in_the_Kingdom_of_Saudi_Arabia_is_drawing_henna%2C_and_picked_up_by_girls_one_generation_after_the_other.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
