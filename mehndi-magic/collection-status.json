@@ -53,11 +53,11 @@
   },
   "Floral Mehndi": {
     "expected": 1299,
-    "published": false
+    "published": true
   },
   "Front Hand": {
     "expected": 71,
-    "published": false
+    "published": true
   },
   "Full Body Mehndi": {
     "expected": 1092,
@@ -65,11 +65,11 @@
   },
   "Full Hand": {
     "expected": 82,
-    "published": false
+    "published": true
   },
   "Gulf Mehndi": {
     "expected": 1233,
-    "published": false
+    "published": true
   },
   "Indian Mehndi": {
     "expected": 1143,
