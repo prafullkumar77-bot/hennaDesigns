@@ -1,0 +1,98 @@
+[
+  {
+    "url": "https://zenraz.pw/mehndimagic/Bridesmaid%20Mehndi/Simple%20Bridesmaid/Simple%20Bridesmaid64.jpg",
+    "file": "images/Bridesmaid Mehndi/Simple Bridesmaid/Simple Bridesmaid64.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Bridesmaid Mehndi/Simple Bridesmaid/Simple Bridesmaid64.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Celebrity%20Inspired/Modern%20Celebrity/Modern%20Celebrity115.jpg",
+    "file": "images/Celebrity Inspired/Modern Celebrity/Modern Celebrity115.jpg",
+    "bytes": 48128,
+    "sha256": "1370b660b5111bc58de261a379080da028e99f84ebc1eb6857b179cdafedab25",
+    "status": "invalid",
+    "error": "image file is truncated (38 bytes not processed)"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Celebrity%20Inspired/Modern%20Celebrity/Modern%20Celebrity85.jpg",
+    "file": "images/Celebrity Inspired/Modern Celebrity/Modern Celebrity85.jpg",
+    "bytes": 64512,
+    "sha256": "71472ca5eba7372809fb5006f8be66b2f8d157129d80404d24c08b0ec54c3d3c",
+    "status": "invalid",
+    "error": "image file is truncated (3 bytes not processed)"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Celebrity%20Inspired/TV%20Actress/TV%20Actress21.jpg",
+    "file": "images/Celebrity Inspired/TV Actress/TV Actress21.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Celebrity Inspired/TV Actress/TV Actress21.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Finger%20Mehndi/Stylish%20Tips/Stylish%20Tips.jpg",
+    "file": "images/Finger Mehndi/Stylish Tips/Stylish Tips.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Finger Mehndi/Stylish Tips/Stylish Tips.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Floral%20Mehndi/Bloom%20Patterns/Bloom%20Patterns96.jpg",
+    "file": "images/Floral Mehndi/Bloom Patterns/Bloom Patterns96.jpg",
+    "bytes": 82504,
+    "sha256": "a67ec37179cf6a9b87d32de0c8849da893e48fd7a879d0d4694b33c64835865c",
+    "status": "invalid",
+    "error": "broken data stream when reading image file"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Full%20Body%20Mehndi/Front%20Body%20Art/Front%20Body%20Art137.jpg",
+    "file": "images/Full Body Mehndi/Front Body Art/Front Body Art137.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Full Body Mehndi/Front Body Art/Front Body Art137.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Indian%20Mehndi/Traditional%20Indian/Traditional%20Indian13.jpg",
+    "file": "images/Indian Mehndi/Traditional Indian/Traditional Indian13.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Indian Mehndi/Traditional Indian/Traditional Indian13.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Kids%20Mehndi/Heart%20Shapes/Heart%20Shapes114.jpg",
+    "file": "images/Kids Mehndi/Heart Shapes/Heart Shapes114.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Kids Mehndi/Heart Shapes/Heart Shapes114.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Modern%20Mehndi/Bracelet%20Style/Bracelet%20Style2.jpg",
+    "file": "images/Modern Mehndi/Bracelet Style/Bracelet Style2.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Modern Mehndi/Bracelet Style/Bracelet Style2.jpg'"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Moroccan%20Mehndi/Tribal%20Style/Tribal%20Style95.jpg",
+    "file": "images/Moroccan Mehndi/Tribal Style/Tribal Style95.jpg",
+    "bytes": 328610,
+    "sha256": "56a9b3276f08e344c425932d58a0806f2cb4f4dac79af1d4d1f91888388aa200",
+    "status": "invalid",
+    "error": "broken data stream when reading image file"
+  },
+  {
+    "url": "https://zenraz.pw/mehndimagic/Traditional%20Mehndi/Mandala%20Traditional/Mandala%20Traditional81.jpg",
+    "file": "images/Traditional Mehndi/Mandala Traditional/Mandala Traditional81.jpg",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "invalid",
+    "error": "cannot identify image file 'images/Traditional Mehndi/Mandala Traditional/Mandala Traditional81.jpg'"
+  }
+]

@@ -6,9 +6,11 @@ Images are organized as `images/<category>/<subcategory>/<original filename>` us
 - Package: `com.shahidappdev.mehndi_magic.hennadesigns`
 - Image host / configured API base: `https://zenraz.pw/mehndimagic`
 - `catalog.json`: original bundled category catalog.
-- `manifest.json`: all 35,549 distinct source image URLs and relative destination paths.
+- `manifest.json`: all 35,549 source URLs, relative paths, validation status, byte sizes, SHA-256 checksums, and image dimensions.
+- `collection-status.json`: counts for each of the 36 categories.
+- `source-errors.json`: the 12 empty or damaged source files, omitted from the published image folders.
 
-The images were downloaded from public URLs listed in the app’s bundled Flutter catalog. The collection is being uploaded in category batches; the manifest includes the entire target collection.
+The images were downloaded from public URLs listed in the app’s bundled Flutter catalog. The completed collection contains **35,537 fully decoded images across 36 categories** (about 2.14 GB). All 35,549 catalog URLs were fetched. Twelve source files were empty or damaged; each was downloaded again and returned identical bytes. These unusable files are recorded in the reports and omitted from `images/`. The manifest includes the entire source catalog, with validation status distinguishing the exceptions.
 
 ## Rights
 

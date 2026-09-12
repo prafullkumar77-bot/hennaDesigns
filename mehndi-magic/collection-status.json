@@ -1,146 +1,182 @@
 {
   "Arabic Mehndi": {
-    "expected": 2195,
-    "published": true
+    "catalog_images": 2195,
+    "published_images": 2195,
+    "source_errors": 0
   },
   "Back Hand": {
-    "expected": 96,
-    "published": true
+    "catalog_images": 96,
+    "published_images": 96,
+    "source_errors": 0
   },
   "Bangle Mehndi": {
-    "expected": 1357,
-    "published": true
+    "catalog_images": 1357,
+    "published_images": 1357,
+    "source_errors": 0
   },
   "Bridal": {
-    "expected": 124,
-    "published": true
+    "catalog_images": 124,
+    "published_images": 124,
+    "source_errors": 0
   },
   "Bridal Mehndi": {
-    "expected": 2796,
-    "published": true
+    "catalog_images": 2796,
+    "published_images": 2796,
+    "source_errors": 0
   },
   "Bridesmaid Mehndi": {
-    "expected": 1142,
-    "published": false
+    "catalog_images": 1142,
+    "published_images": 1141,
+    "source_errors": 1
   },
   "Celebrity Inspired": {
-    "expected": 1567,
-    "published": false
+    "catalog_images": 1567,
+    "published_images": 1564,
+    "source_errors": 3
   },
   "Engagement Mehndi": {
-    "expected": 1317,
-    "published": true
+    "catalog_images": 1317,
+    "published_images": 1317,
+    "source_errors": 0
   },
   "Feet": {
-    "expected": 71,
-    "published": true
+    "catalog_images": 71,
+    "published_images": 71,
+    "source_errors": 0
   },
   "Feet Mehndi": {
-    "expected": 2117,
-    "published": true
+    "catalog_images": 2117,
+    "published_images": 2117,
+    "source_errors": 0
   },
   "Festival Fusion": {
-    "expected": 1829,
-    "published": true
+    "catalog_images": 1829,
+    "published_images": 1829,
+    "source_errors": 0
   },
   "Festival Special": {
-    "expected": 1077,
-    "published": true
+    "catalog_images": 1077,
+    "published_images": 1077,
+    "source_errors": 0
   },
   "Finger Mehndi": {
-    "expected": 1133,
-    "published": false
+    "catalog_images": 1133,
+    "published_images": 1132,
+    "source_errors": 1
   },
   "Floral Mehndi": {
-    "expected": 1299,
-    "published": true
+    "catalog_images": 1299,
+    "published_images": 1298,
+    "source_errors": 1
   },
   "Front Hand": {
-    "expected": 71,
-    "published": true
+    "catalog_images": 71,
+    "published_images": 71,
+    "source_errors": 0
   },
   "Full Body Mehndi": {
-    "expected": 1092,
-    "published": false
+    "catalog_images": 1092,
+    "published_images": 1091,
+    "source_errors": 1
   },
   "Full Hand": {
-    "expected": 82,
-    "published": true
+    "catalog_images": 82,
+    "published_images": 82,
+    "source_errors": 0
   },
   "Gulf Mehndi": {
-    "expected": 1233,
-    "published": true
+    "catalog_images": 1233,
+    "published_images": 1233,
+    "source_errors": 0
   },
   "Indian Mehndi": {
-    "expected": 1143,
-    "published": false
+    "catalog_images": 1143,
+    "published_images": 1142,
+    "source_errors": 1
   },
   "Kids Mehndi": {
-    "expected": 1438,
-    "published": false
+    "catalog_images": 1438,
+    "published_images": 1437,
+    "source_errors": 1
   },
   "Mandala Designs": {
-    "expected": 790,
-    "published": true
+    "catalog_images": 790,
+    "published_images": 790,
+    "source_errors": 0
   },
   "Minimal Mehndi": {
-    "expected": 949,
-    "published": true
+    "catalog_images": 949,
+    "published_images": 949,
+    "source_errors": 0
   },
   "Modern Mehndi": {
-    "expected": 895,
-    "published": false
+    "catalog_images": 895,
+    "published_images": 894,
+    "source_errors": 1
   },
   "Moroccan Mehndi": {
-    "expected": 684,
-    "published": true
+    "catalog_images": 684,
+    "published_images": 683,
+    "source_errors": 1
   },
   "Neck Mehndi": {
-    "expected": 476,
-    "published": true
+    "catalog_images": 476,
+    "published_images": 476,
+    "source_errors": 0
   },
   "New Year Special": {
-    "expected": 472,
-    "published": true
+    "catalog_images": 472,
+    "published_images": 472,
+    "source_errors": 0
   },
   "Occasion Mehndi": {
-    "expected": 965,
-    "published": true
+    "catalog_images": 965,
+    "published_images": 965,
+    "source_errors": 0
   },
   "Pakistani Mehndi": {
-    "expected": 1376,
-    "published": true
+    "catalog_images": 1376,
+    "published_images": 1376,
+    "source_errors": 0
   },
   "Peacock Designs": {
-    "expected": 689,
-    "published": true
+    "catalog_images": 689,
+    "published_images": 689,
+    "source_errors": 0
   },
   "Portrait Mehndi": {
-    "expected": 1023,
-    "published": true
+    "catalog_images": 1023,
+    "published_images": 1023,
+    "source_errors": 0
   },
   "Rajasthani Mehndi": {
-    "expected": 1086,
-    "published": true
+    "catalog_images": 1086,
+    "published_images": 1086,
+    "source_errors": 0
   },
   "Simple": {
-    "expected": 99,
-    "published": true
+    "catalog_images": 99,
+    "published_images": 99,
+    "source_errors": 0
   },
   "Stylish Mehndi": {
-    "expected": 643,
-    "published": false
+    "catalog_images": 643,
+    "published_images": 643,
+    "source_errors": 0
   },
   "Tattoo Style Mehndi": {
-    "expected": 713,
-    "published": false
+    "catalog_images": 713,
+    "published_images": 713,
+    "source_errors": 0
   },
   "Traditional Mehndi": {
-    "expected": 866,
-    "published": false
+    "catalog_images": 866,
+    "published_images": 865,
+    "source_errors": 1
   },
   "Wedding Collection": {
-    "expected": 644,
-    "published": false
+    "catalog_images": 644,
+    "published_images": 644,
+    "source_errors": 0
   }
 }
