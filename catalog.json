@@ -698,28 +698,6 @@
     }
   },
   {
-    "id": "gifts",
-    "title": "Gifts.,",
-    "categories": [
-      "Others",
-      "Casual"
-    ],
-    "coverCategories": [],
-    "author": "Kaviyadharshini Selvakumar",
-    "source": "https://commons.wikimedia.org/wiki/File%3AGifts.%2C.jpg",
-    "license": "CC-BY-SA-4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "retrieved": "2026-09-12",
-    "thumbnail": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/gifts.jpg",
-      "sha256": "d72c1e6f66bebe05de0b56e8fd01f06d265efa3f4bda41499384e46d7e9d660f"
-    },
-    "image": {
-      "url": "https://raw.githubusercontent.com/prafullkumar77-bot/hennaDesigns/main/images/gifts.jpg",
-      "sha256": "d72c1e6f66bebe05de0b56e8fd01f06d265efa3f4bda41499384e46d7e9d660f"
-    }
-  },
-  {
     "id": "henna_ceremony_at_wedding_01",
     "title": "Henna ceremony at wedding 01",
     "categories": [

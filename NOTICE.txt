@@ -6,7 +6,7 @@ Category labels are editorial browsing suggestions only.
 Images with detected faces were excluded. Display-size JPEGs are used.
 
 License summary:
-  CC-BY-SA-4.0: 69
+  CC-BY-SA-4.0: 68
   CC-BY-SA-3.0: 21
   CC0-1.0: 9
   CC-BY-2.0: 4
@@ -198,12 +198,6 @@ https://creativecommons.org/licenses/by-sa/4.0
 Full hand mehandi
 Peroli Udhayakumar
 https://commons.wikimedia.org/wiki/File%3AFull_hand_mehandi.jpg
-CC-BY-SA-4.0
-https://creativecommons.org/licenses/by-sa/4.0
-
-Gifts.,
-Kaviyadharshini Selvakumar
-https://commons.wikimedia.org/wiki/File%3AGifts.%2C.jpg
 CC-BY-SA-4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
