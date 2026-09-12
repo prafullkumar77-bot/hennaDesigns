@@ -1,0 +1,90 @@
+Henna Studio 0.1.0
+Application ID: com.learning.hamview
+
+Artwork
+18 original procedural motifs are implemented in Designs.kt. These are app-authored vector compositions, not downloaded or AI-image-generated artwork.
+
+Flower SVG sketch11.svg
+Author: Netha Hussain, 22 November 2020
+Source: https://commons.wikimedia.org/wiki/File:Flower_SVG_sketch11.svg
+License: CC0 1.0 Universal Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+The source file is unmodified. It is displayed at a different size. This SVG contains an embedded raster image and is offered as reference artwork only.
+
+MediaPipe Hand Landmarker
+Copyright Google LLC. Apache License, Version 2.0.
+Model bundle: hand_landmarker/float16/1 (bundled; no runtime download)
+https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker
+https://github.com/google-ai-edge/mediapipe
+Model card: https://storage.googleapis.com/mediapipe-assets/Model%20Card%20Hand%20Tracking%20%28Lite_Full%29%20with%20Fairness%20Oct%202021.pdf
+The model card identifies Apache 2.0. This experimental preview uses a bare, open hand. The model card lists occluded/decorated hands, including existing henna, outside its intended use; use manual placement for those cases.
+
+AndroidX, Compose and CameraX
+Copyright The Android Open Source Project. Apache License, Version 2.0.
+https://android.googlesource.com/platform/frameworks/support/
+
+Kotlin
+Copyright JetBrains s.r.o. and Kotlin Programming Language contributors.
+Apache License, Version 2.0. https://github.com/JetBrains/kotlin
+
+AndroidSVG
+Copyright Paul LeBeau. Apache License, Version 2.0.
+https://github.com/BigBadaboom/androidsvg
+
+Apache License 2.0 full text is bundled in licenses/Apache-2.0.txt.
+Licensed software is provided on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+Bundled inspiration photographs (CC0-1.0)
+Categories are editorial browsing suggestions. Photos may appear in multiple categories.
+Downloaded from Wikimedia Commons on 2026-09-12. Display-size versions used where available; cards crop to fit.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Floral palm trail
+Manju Thilagavathi
+https://commons.wikimedia.org/wiki/File:Simple_mehendi_design.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Mandala hand
+Manju Thilagavathi
+https://commons.wikimedia.org/wiki/File:Mehendi_design.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Intricate bridal palms
+Manju Thilagavathi
+https://commons.wikimedia.org/wiki/File:Full_hand_Mehendi_design.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Front and back bridal study
+Manju Thilagavathi
+https://commons.wikimedia.org/wiki/File:Front_and_back_hand_mehendi_design.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Wedding hands and feet
+No author provided
+https://commons.wikimedia.org/wiki/File:Wedding_Henna.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Floral wrist vine
+Rebeccananonof
+https://commons.wikimedia.org/wiki/File:Henna_body_art.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Floral leg accent
+Rebeccananonof
+https://commons.wikimedia.org/wiki/File:Henna_body_art_on_leg.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Floral foot pattern
+Maryam Bello Shafi'i
+https://commons.wikimedia.org/wiki/File:Henna_4.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Foot pattern detail
+Maryam Bello Shafi'i
+https://commons.wikimedia.org/wiki/File:Henna_5.jpg
+CC0 1.0 Universal Public Domain Dedication
+
+Henna by the sea
+Toa Heftiba heftiba
+https://commons.wikimedia.org/wiki/File:Henna_Tattoo_(Unsplash).jpg
+CC0 1.0 Universal Public Domain Dedication
