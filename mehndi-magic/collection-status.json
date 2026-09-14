@@ -45,8 +45,8 @@
     "source_errors": 0
   },
   "Feet Mehndi": {
-    "catalog_images": 2117,
-    "published_images": 2117,
+    "catalog_images": 2213,
+    "published_images": 2213,
     "source_errors": 0
   },
   "Festival Fusion": {
@@ -60,8 +60,8 @@
     "source_errors": 0
   },
   "Finger Mehndi": {
-    "catalog_images": 1133,
-    "published_images": 1132,
+    "catalog_images": 1172,
+    "published_images": 1171,
     "source_errors": 1
   },
   "Floral Mehndi": {
@@ -95,8 +95,8 @@
     "source_errors": 1
   },
   "Kids Mehndi": {
-    "catalog_images": 1438,
-    "published_images": 1437,
+    "catalog_images": 1472,
+    "published_images": 1471,
     "source_errors": 1
   },
   "Mandala Designs": {
@@ -177,6 +177,11 @@
   "Wedding Collection": {
     "catalog_images": 644,
     "published_images": 644,
+    "source_errors": 0
+  },
+  "Hand Designs": {
+    "catalog_images": 547,
+    "published_images": 547,
     "source_errors": 0
   }
 }

@@ -15,3 +15,9 @@ The images were downloaded from public URLs listed in the app’s bundled Flutte
 ## Rights
 
 These are third-party images. Their licenses and ownership have not been independently verified. The CC0 notice for the repository’s original collection does not apply to this folder. This repository does not grant rights to reuse these images.
+
+## Added assets (2026-09-14)
+
+Added 716 user-provided images: 547 hand, 96 leg, 39 finger, and 34 kids designs. The combined manifest contains 36,253 valid images across 37 categories, plus the 12 existing invalid source records. `catalog.json` and `collection-status.json` include both collections. `added-assets.json` records new image paths, public URLs, dimensions, sizes, and SHA-256 hashes. Original source attribution and licenses were not supplied for these additions.
+
+`app-catalog/index.json` and its category files contain the combined app list with existing and newly detected faces excluded.
